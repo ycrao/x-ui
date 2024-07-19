@@ -39,9 +39,9 @@
 &#x26A1;从原版升级也可使用该命令，数据不会丢失&#x26A1;
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/ycrao/x-ui/main/install.sh)
-# if GitHub blocked sometimes in China, you may try this
-bash <(curl -Ls https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ycrao/x-ui/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/main/install.sh)
+# if GitHub blocked, you may try this
+bash <(curl -Ls https://gh.api.99988866.xyz/https://raw.githubusercontent.com/FranzKafkaYu/x-ui/main/install.sh)
 ```
 For English Users,please use the following command to install English supported version:  
 ```
